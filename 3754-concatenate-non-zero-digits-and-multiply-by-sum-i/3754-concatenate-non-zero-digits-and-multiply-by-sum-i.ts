@@ -1,5 +1,5 @@
 function sumAndMultiply(n: number): number {
-    let numStr= new String(n);
+    let numStr= n.toString();
     let sum=0;
     let x="";
     for(let i=0;i<numStr.length;i++){
