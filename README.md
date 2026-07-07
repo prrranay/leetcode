@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/prrranay/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/prrranay/leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/prrranay/leetcode/tree/master/0509-fibonacci-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prrranay/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
 | ------- |
