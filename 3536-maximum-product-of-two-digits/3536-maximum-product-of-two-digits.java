@@ -4,9 +4,9 @@ class Solution {
        arr=new ArrayList<>();
        numArr(n);
        arr.sort(Comparator.reverseOrder());
-       if(arr.size() == 1){
-        return arr.get(0);
-       }
+    //    if(arr.size() == 1){
+    //     return arr.get(0);
+    //    }
        return arr.get(0)*arr.get(1);
     }
     public void numArr(int n){
