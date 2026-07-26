@@ -12,7 +12,7 @@ class Solution {
         }
 
         for(List<String> destination:graph.values()){
-            Collections.sort(destination,Comparator.reverseOrder());
+            Collections.sort(destination);
         }
         dfs("JFK");
         return ans;
@@ -22,7 +22,7 @@ class Solution {
         List<String> destination=graph.get(terminal);
 
         while(destination != null && !destination.isEmpty()){
-            String next=destination.remove(destination.size()-1);
+            String next=destination.remove(0);
             dfs(next);
         }
 
