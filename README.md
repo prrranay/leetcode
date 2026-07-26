@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prrranay/leetcode/tree/master/0066-plus-one) |
 | [0130-surrounded-regions](https://github.com/prrranay/leetcode/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prrranay/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0332-reconstruct-itinerary](https://github.com/prrranay/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prrranay/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prrranay/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0994-rotting-oranges](https://github.com/prrranay/leetcode/tree/master/0994-rotting-oranges) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prrranay/leetcode/tree/master/0015-3sum) |
+| [0332-reconstruct-itinerary](https://github.com/prrranay/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prrranay/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/prrranay/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/prrranay/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/prrranay/leetcode/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/prrranay/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0332-reconstruct-itinerary](https://github.com/prrranay/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prrranay/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prrranay/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prrranay/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/prrranay/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0743-network-delay-time](https://github.com/prrranay/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prrranay/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/prrranay/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/prrranay/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/prrranay/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/prrranay/leetcode/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/prrranay/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/prrranay/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/prrranay/leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/prrranay/leetcode/tree/master/0743-network-delay-time) |
@@ -194,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/prrranay/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/prrranay/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/prrranay/leetcode/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/prrranay/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prrranay/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/prrranay/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/prrranay/leetcode/tree/master/0684-redundant-connection) |
@@ -263,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/prrranay/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/prrranay/leetcode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
