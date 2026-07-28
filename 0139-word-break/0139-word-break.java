@@ -7,7 +7,7 @@ class Solution {
         Set<String> set=new HashSet<>(wordDict);
 
         for(int i=1;i<=n;i++){
-            for(int j=0;j<i;j++){
+            for(int j=i-1;j>=0;j--){
                 String sub=s.substring(j,i);
                 if(dp[j] && set.contains(sub)){
                     dp[i]=true;
