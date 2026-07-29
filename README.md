@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/prrranay/leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/prrranay/leetcode/tree/master/0039-combination-sum) |
+| [0055-jump-game](https://github.com/prrranay/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/prrranay/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/prrranay/leetcode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/prrranay/leetcode/tree/master/0130-surrounded-regions) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/prrranay/leetcode/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/prrranay/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prrranay/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prrranay/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prrranay/leetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/prrranay/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/prrranay/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/prrranay/leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/prrranay/leetcode/tree/master/0091-decode-ways) |
