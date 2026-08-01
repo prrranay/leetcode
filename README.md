@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/prrranay/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0416-partition-equal-subset-sum](https://github.com/prrranay/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prrranay/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0486-predict-the-winner](https://github.com/prrranay/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prrranay/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/prrranay/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/prrranay/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prrranay/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/prrranay/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/prrranay/leetcode/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/prrranay/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/prrranay/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prrranay/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prrranay/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/prrranay/leetcode/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/prrranay/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/prrranay/leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/prrranay/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/prrranay/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/prrranay/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/prrranay/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/prrranay/leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/prrranay/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prrranay/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -346,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/prrranay/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/prrranay/leetcode/tree/master/0039-combination-sum) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/prrranay/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
