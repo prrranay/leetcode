@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prrranay/leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/prrranay/leetcode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/prrranay/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/prrranay/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/prrranay/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/prrranay/leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/prrranay/leetcode/tree/master/0066-plus-one) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/prrranay/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/prrranay/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/prrranay/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/prrranay/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/prrranay/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/prrranay/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/prrranay/leetcode/tree/master/0063-unique-paths-ii) |
@@ -366,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/prrranay/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/prrranay/leetcode/tree/master/0877-stone-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/prrranay/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
