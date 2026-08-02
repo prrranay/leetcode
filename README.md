@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/prrranay/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/prrranay/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/prrranay/leetcode/tree/master/0778-swim-in-rising-water) |
+| [0877-stone-game](https://github.com/prrranay/leetcode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/prrranay/leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/prrranay/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/prrranay/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/prrranay/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/prrranay/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prrranay/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/prrranay/leetcode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prrranay/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prrranay/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prrranay/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/prrranay/leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/prrranay/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prrranay/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/prrranay/leetcode/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/prrranay/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prrranay/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Memoization
@@ -354,4 +357,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/prrranay/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/prrranay/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
