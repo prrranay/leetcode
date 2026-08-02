@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/prrranay/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/prrranay/leetcode/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/prrranay/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0763-partition-labels](https://github.com/prrranay/leetcode/tree/master/0763-partition-labels) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prrranay/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prrranay/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prrranay/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/prrranay/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0332-reconstruct-itinerary](https://github.com/prrranay/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0647-palindromic-substrings](https://github.com/prrranay/leetcode/tree/master/0647-palindromic-substrings) |
+| [0763-partition-labels](https://github.com/prrranay/leetcode/tree/master/0763-partition-labels) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prrranay/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prrranay/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prrranay/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/prrranay/leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/prrranay/leetcode/tree/master/0139-word-break) |
+| [0763-partition-labels](https://github.com/prrranay/leetcode/tree/master/0763-partition-labels) |
 | [1331-rank-transform-of-an-array](https://github.com/prrranay/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prrranay/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prrranay/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/prrranay/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prrranay/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/prrranay/leetcode/tree/master/0647-palindromic-substrings) |
+| [0763-partition-labels](https://github.com/prrranay/leetcode/tree/master/0763-partition-labels) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prrranay/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prrranay/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
