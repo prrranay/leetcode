@@ -1,19 +1,19 @@
 class Solution {
     public boolean canPartition(int[] nums) {
-        int totalSum=0;
+        int total=0;
         for(int num:nums){
-            totalSum+=num;
+            total+=num;
         }
-        if(totalSum%2 != 0) return false;
+        if(total % 2 !=0) return false;
 
-        int target=totalSum/2;
-        boolean dp[]=new boolean[target+1];
+        int target = total/2;
+        boolean[] dp=new boolean[target+1];
         dp[0]=true;
 
         for(int num:nums){
-            for(int i=target-num;i>=0;i--){
-                if(dp[i]){
-                    dp[i+num]=true;
+            for(int j=target;j>=num;j--){
+                if(dp[j-num]){
+                    dp[j]=dp[j-num];
                 }
             }
         }
