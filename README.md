@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/prrranay/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/prrranay/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/prrranay/leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/prrranay/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/prrranay/leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/prrranay/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/prrranay/leetcode/tree/master/0118-pascals-triangle) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prrranay/leetcode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/prrranay/leetcode/tree/master/0056-merge-intervals) |
 | [0332-reconstruct-itinerary](https://github.com/prrranay/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prrranay/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/prrranay/leetcode/tree/master/0846-hand-of-straights) |
@@ -397,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/prrranay/leetcode/tree/master/1406-stone-game-iii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/prrranay/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
