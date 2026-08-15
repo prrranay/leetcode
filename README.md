@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/prrranay/leetcode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/prrranay/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/prrranay/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/prrranay/leetcode/tree/master/0070-climbing-stairs) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/prrranay/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/prrranay/leetcode/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/prrranay/leetcode/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/prrranay/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/prrranay/leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/prrranay/leetcode/tree/master/0125-valid-palindrome) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/prrranay/leetcode/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/prrranay/leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prrranay/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
