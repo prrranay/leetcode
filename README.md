@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prrranay/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prrranay/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prrranay/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2013-detect-squares](https://github.com/prrranay/leetcode/tree/master/2013-detect-squares) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/prrranay/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/prrranay/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prrranay/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/prrranay/leetcode/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/prrranay/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prrranay/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2013-detect-squares](https://github.com/prrranay/leetcode/tree/master/2013-detect-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prrranay/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prrranay/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prrranay/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2013-detect-squares](https://github.com/prrranay/leetcode/tree/master/2013-detect-squares) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prrranay/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prrranay/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
@@ -465,4 +468,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/prrranay/leetcode/tree/master/0202-happy-number) |
+## Design
+|  |
+| ------- |
+| [2013-detect-squares](https://github.com/prrranay/leetcode/tree/master/2013-detect-squares) |
+## Data Stream
+|  |
+| ------- |
+| [2013-detect-squares](https://github.com/prrranay/leetcode/tree/master/2013-detect-squares) |
 <!---LeetCode Topics End-->
