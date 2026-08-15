@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/prrranay/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/prrranay/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/prrranay/leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/prrranay/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/prrranay/leetcode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/prrranay/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/prrranay/leetcode/tree/master/0509-fibonacci-number) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/prrranay/leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/prrranay/leetcode/tree/master/0139-word-break) |
+| [0202-happy-number](https://github.com/prrranay/leetcode/tree/master/0202-happy-number) |
 | [0763-partition-labels](https://github.com/prrranay/leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/prrranay/leetcode/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/prrranay/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prrranay/leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/prrranay/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prrranay/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/prrranay/leetcode/tree/master/0202-happy-number) |
 | [0647-palindromic-substrings](https://github.com/prrranay/leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/prrranay/leetcode/tree/master/0763-partition-labels) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/prrranay/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -455,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/prrranay/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/prrranay/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
