@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/prrranay/leetcode/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/prrranay/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prrranay/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1929-concatenation-of-array](https://github.com/prrranay/leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prrranay/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prrranay/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2013-detect-squares](https://github.com/prrranay/leetcode/tree/master/2013-detect-squares) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/prrranay/leetcode/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/prrranay/leetcode/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/prrranay/leetcode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prrranay/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prrranay/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
