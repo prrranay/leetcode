@@ -1,54 +1,46 @@
 class Solution {
-    int [][] dirs={{1,0},{0,1},{-1,0},{0,-1}};
+    int[][]directions={{0,1},{1,0},{0,-1},{-1,0}};
     public int maximumSafenessFactor(List<List<Integer>> grid) {
         int n=grid.size();
 
-        //step -1 compute distance
-        int[][] dist= new int[n][n];
-        Queue<int[]> q=new LinkedList<>();
+        int[][]dist=new int[n][n];
 
         for(int i=0;i<n;i++){
             Arrays.fill(dist[i],-1);
         }
 
-        //push thieves in queue
+        Queue<int[]> q=new LinkedList<>();
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
-                if(grid.get(i).get(j)== 1){
+                if(grid.get(i).get(j)==1){
                     dist[i][j]=0;
                     q.offer(new int[]{i,j});
                 }
             }
         }
 
-        // multi source bfs
         while(!q.isEmpty()){
-            int[] cur=q.poll();
-            
-            int r= cur[0];
-            int c=cur[1];
+            int[] top=q.poll();
+            int x=top[0];
+            int y=top[1];
 
-            for(int[]d:dirs){
-                int nr=r+d[0];
-                int nc=c+d[1];
+            for(int[] dir:directions){
+                int i=x+dir[0];
+                int j=y+dir[1];
 
-                if(nr<0|| nc< 0|| nr>=n||nc>=n){
-                    continue;
+                if(i >= 0 && j >= 0 && i<n && j<n && dist[i][j] == -1){
+                    dist[i][j]=dist[x][y]+1;
+                    q.offer(new int[]{i,j});
                 }
-                if(dist[nr][nc]!= -1) continue;
-
-                dist[nr][nc]=dist[r][c]+1;
-                q.offer(new int[]{nr,nc});
             }
         }
 
-        int low =0;
+        int low=0;
         int high=2*n;
         int ans=0;
-        
-        while(low<=high){
-            int mid=low+(high-low)/2;
 
+        while(low <= high){
+            int mid=(high+low)/2;
             if(canReach(dist,mid)){
                 ans=mid;
                 low=mid+1;
@@ -59,36 +51,32 @@ class Solution {
         return ans;
     }
 
-    private boolean canReach(int[][] dist,int safe){
-        int n=dist.length;
-        if(dist[0][0]<safe){
+    boolean canReach(int[][] dist,int safe){
+        if(dist[0][0] < safe){
             return false;
         }
 
+        int n=dist.length;
+
         Queue<int[]> q=new LinkedList<>();
-        boolean[][] vis= new boolean[n][n];
+        boolean vis[][]=new boolean[n][n];
 
         q.offer(new int[]{0,0});
         vis[0][0]=true;
 
         while(!q.isEmpty()){
-            int[] cur=q.poll();
+            int curr[]=q.poll();
+            int x=curr[0];
+            int  y=curr[1];
+            if(x == n-1 && y == n-1) return true;
+            for(int [] dir:directions){
+                int i=x+dir[0];
+                int j=y+dir[1];
 
-            int r=cur[0];
-            int c=cur[1];
-
-            if(r== n-1 && c==n-1) return true;
-
-            for(int[] d:dirs){
-                int nr=r+d[0];
-                int nc= c+d[1];
-
-                if(nr<0|| nc<0|| nr>=n|| nc>=n) continue;
-                if(vis[nr][nc]) continue;
-                if(dist[nr][nc]<safe) continue;
-
-                vis[nr][nc]=true;
-                q.offer(new int[]{nr,nc});
+                if(i>=0 && j>=0 && i<n && j<n && !vis[i][j] && dist[i][j] >= safe){
+                    vis[i][j]=true;
+                    q.offer(new int[]{i,j});
+                }
             }
         }
         return false;
