@@ -5,13 +5,11 @@ class Solution {
         int ans=arr[0];
 
         for(int i=1;i<arr.length;i++){
-            int newEnergy=Math.max(arr[i],energy+arr[i]);
             devineEnergy=Math.max(energy,devineEnergy+arr[i]);
-            energy=newEnergy;
+            energy=Math.max(arr[i],energy+arr[i]);
             ans=Math.max(ans,Math.max(energy,devineEnergy));
         }
 
         return ans;
-
     }
 }
