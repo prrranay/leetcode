@@ -1,23 +1,24 @@
 class Solution {
-    Map<String,Integer> map=new HashMap<>();
     public int calculateMinimumHP(int[][] dungeon) {
-      return solve(0,0,dungeon);  
-    }
+        int m=dungeon.length;
+        int n=dungeon[0].length;
 
-    int solve(int i, int j, int[][] dungeon){
-        if(i >= dungeon.length || j>= dungeon[0].length) return Integer.MAX_VALUE;
-
-        String key=i+"key"+j;
-        if(map.containsKey(key)){
-            return map.get(key);
+        for(int i=m-1;i>=0;i--){
+            for(int j=n-1;j>=0;j--){
+                int need;
+                if(i == m-1 && j == n-1){
+                    need=Math.max(1,1-dungeon[i][j]);
+                }else if(i == m-1){
+                    need=Math.max(1,dungeon[i][j+1] - dungeon[i][j]);
+                }else if(j == n-1){
+                    need=Math.max(1,dungeon[i+1][j] - dungeon[i][j]);
+                }else{
+                    int min=Math.min(dungeon[i+1][j], dungeon[i][j+1]);
+                    need=Math.max(1,min-dungeon[i][j]);
+                }
+                dungeon[i][j]=need;
+            }
         }
-
-        int health=Math.min(solve(i+1,j,dungeon),solve(i,j+1,dungeon));
-
-        if(health == Integer.MAX_VALUE) health=1;
-
-        int res=Math.max(health - dungeon[i][j], 1);
-        map.put(key,res);
-        return res;
+        return dungeon[0][0];
     }
 }
