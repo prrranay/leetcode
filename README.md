@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/prrranay/leetcode/tree/master/0846-hand-of-straights) |
 | [0877-stone-game](https://github.com/prrranay/leetcode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/prrranay/leetcode/tree/master/0994-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/prrranay/leetcode/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/prrranay/leetcode/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/prrranay/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1260-shift-2d-grid](https://github.com/prrranay/leetcode/tree/master/1260-shift-2d-grid) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/prrranay/leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/prrranay/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prrranay/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1046-last-stone-weight](https://github.com/prrranay/leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prrranay/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/prrranay/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/prrranay/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
