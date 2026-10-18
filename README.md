@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/prrranay/leetcode/tree/master/0486-predict-the-winner) |
 | [0621-task-scheduler](https://github.com/prrranay/leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prrranay/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/prrranay/leetcode/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/prrranay/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/prrranay/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/prrranay/leetcode/tree/master/0835-image-overlap) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/prrranay/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/prrranay/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/prrranay/leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/prrranay/leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/prrranay/leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/prrranay/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prrranay/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/prrranay/leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/prrranay/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/prrranay/leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/prrranay/leetcode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/prrranay/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/prrranay/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/prrranay/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/prrranay/leetcode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/prrranay/leetcode/tree/master/0174-dungeon-game) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prrranay/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/prrranay/leetcode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/prrranay/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/prrranay/leetcode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/prrranay/leetcode/tree/master/0994-rotting-oranges) |
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/prrranay/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/prrranay/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/prrranay/leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/prrranay/leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/prrranay/leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/prrranay/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prrranay/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
