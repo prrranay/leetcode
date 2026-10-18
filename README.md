@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prrranay/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prrranay/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prrranay/leetcode/tree/master/0268-missing-number) |
+| [0355-design-twitter](https://github.com/prrranay/leetcode/tree/master/0355-design-twitter) |
 | [0389-find-the-difference](https://github.com/prrranay/leetcode/tree/master/0389-find-the-difference) |
 | [0621-task-scheduler](https://github.com/prrranay/leetcode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/prrranay/leetcode/tree/master/0763-partition-labels) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/prrranay/leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0355-design-twitter](https://github.com/prrranay/leetcode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/prrranay/leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/prrranay/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/prrranay/leetcode/tree/master/0743-network-delay-time) |
@@ -691,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/prrranay/leetcode/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/prrranay/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2013-detect-squares](https://github.com/prrranay/leetcode/tree/master/2013-detect-squares) |
 ## Data Stream
@@ -778,4 +781,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/prrranay/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/prrranay/leetcode/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
