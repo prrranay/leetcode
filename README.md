@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/prrranay/leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/prrranay/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/prrranay/leetcode/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/prrranay/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/prrranay/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/prrranay/leetcode/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/prrranay/leetcode/tree/master/0139-word-break) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prrranay/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/prrranay/leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/prrranay/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/prrranay/leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/prrranay/leetcode/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/prrranay/leetcode/tree/master/0202-happy-number) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/prrranay/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/prrranay/leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/prrranay/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/prrranay/leetcode/tree/master/0684-redundant-connection) |
