@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/prrranay/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/prrranay/leetcode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/prrranay/leetcode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/prrranay/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/prrranay/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/prrranay/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/prrranay/leetcode/tree/master/0056-merge-intervals) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prrranay/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/prrranay/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/prrranay/leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/prrranay/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prrranay/leetcode/tree/master/0242-valid-anagram) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/prrranay/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/prrranay/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/prrranay/leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/prrranay/leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/prrranay/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/prrranay/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/prrranay/leetcode/tree/master/0115-distinct-subsequences) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prrranay/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/prrranay/leetcode/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/prrranay/leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/prrranay/leetcode/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/prrranay/leetcode/tree/master/0202-happy-number) |
