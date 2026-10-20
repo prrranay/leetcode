@@ -1,15 +1,16 @@
 class Solution {
+    public int dp[]=new int[46];
     public int climbStairs(int n) {
-        int[]dp=new int[n+1];
-        return solve(n,dp);
-    }
-    public int solve(int n,int[] dp){
-        if(n==1 || n==2){
+        if(n<=3){
             return n;
         }
+
         if(dp[n]==0){
-            dp[n]=solve(n-1,dp)+solve(n-2,dp);
+            dp[n-1]=climbStairs(n-1);
+            dp[n-2]=climbStairs(n-2);
+            dp[n]=dp[n-1]+dp[n-2];
         }
+
         return dp[n];
     }
 }
