@@ -1,35 +1,32 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         Arrays.sort(nums);
-        int n=nums.length;
-        List<List<Integer>> ans=new ArrayList<>();
+        List<List<Integer>> res=new ArrayList<>();
 
-        for(int i=0;i<n-2;i++){
-            if(i>0 && nums[i] == nums[i-1]){
-                continue;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]>0){
+                break;
             }
-            int left=i+1;
-            int right=n-1;
-            while(left<right){
-                int sum = nums[i]+nums[left]+nums[right];
+
+            if(i>0 && nums[i] == nums[i-1]) continue;
+
+            int l=i+1,r=nums.length-1;
+            while(l<r){
+                int sum=nums[l]+nums[r]+nums[i];
                 if(sum == 0){
-                    // Store the actual values, not indices
-                    ans.add(Arrays.asList(nums[i], nums[left], nums[right]));
-                    
-                    // Move pointers past duplicates
-                    while (left < right && nums[left] == nums[left + 1]) left++;
-                    while (left < right && nums[right] == nums[right - 1]) right--;
-                    
-                    // Standard pointer update
-                    left++;
-                    right--;
-                }else if(sum < 0){
-                    left++;
+                    res.add(Arrays.asList(nums[l],nums[r],nums[i]));
+                    l++;
+                    r--;
+                    while(l<r && nums[l] == nums[l-1]){
+                        l++;
+                    }
+                }else if(sum > 0){
+                    r--;
                 }else{
-                    right--;
+                    l++;
                 }
             }
         }
-        return ans;
+        return res;
     }
 }
