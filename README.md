@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/prrranay/leetcode/tree/master/0010-regular-expression-matching) |
+| [0206-reverse-linked-list](https://github.com/prrranay/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/prrranay/leetcode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/prrranay/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/prrranay/leetcode/tree/master/0509-fibonacci-number) |
@@ -824,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/prrranay/leetcode/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/prrranay/leetcode/tree/master/0355-design-twitter) |
 ## Bucket Sort
 |  |
