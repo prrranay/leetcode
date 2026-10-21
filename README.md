@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/prrranay/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/prrranay/leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/prrranay/leetcode/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/prrranay/leetcode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/prrranay/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/prrranay/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prrranay/leetcode/tree/master/0242-valid-anagram) |
@@ -735,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/prrranay/leetcode/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/prrranay/leetcode/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/prrranay/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2013-detect-squares](https://github.com/prrranay/leetcode/tree/master/2013-detect-squares) |
@@ -828,10 +830,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/prrranay/leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/prrranay/leetcode/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/prrranay/leetcode/tree/master/0355-design-twitter) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/prrranay/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/prrranay/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
