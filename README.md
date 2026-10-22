@@ -844,4 +844,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/prrranay/leetcode/tree/master/0146-lru-cache) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/prrranay/leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/prrranay/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
