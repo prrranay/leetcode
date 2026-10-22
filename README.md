@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/prrranay/leetcode/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/prrranay/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/prrranay/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1642-furthest-building-you-can-reach](https://github.com/prrranay/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prrranay/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/prrranay/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prrranay/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/prrranay/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prrranay/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/prrranay/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1642-furthest-building-you-can-reach](https://github.com/prrranay/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prrranay/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/prrranay/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1927-sum-game](https://github.com/prrranay/leetcode/tree/master/1927-sum-game) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/prrranay/leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prrranay/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/prrranay/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1642-furthest-building-you-can-reach](https://github.com/prrranay/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/prrranay/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prrranay/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
