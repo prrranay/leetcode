@@ -1,25 +1,22 @@
 class Solution {
+    HashMap<Integer,Integer> dp=new HashMap<>();
     public int numDecodings(String s) {
-        if(s.charAt(0) == '0'){
-            return 0;
+        dp.put(s.length(),1);
+        return solve(s,0);
+    }
+    public int solve(String s, int i){
+        if(dp.containsKey(i)){
+            return dp.get(i);
         }
-        int one = 1;
-        int two = 1;
+        if(s.charAt(i) == '0') return 0;
 
-        for(int i=1; i < s.length(); i++){
-            int curr=0;
-            if(s.charAt(i) != '0'){
-                curr=one;
-            }
-            
-            int value = Integer.parseInt(s.substring(i-1,i+1));
-            if(value >= 10 && value <=26){
-                curr=curr+two;
-            }
 
-            two = one;
-            one = curr;
+        int res=solve(s,i+1);
+
+        if(i+1 < s.length() &&( s.charAt(i) == '1'  || (s.charAt(i) == '2' && s.charAt(i+1) < '7'))){
+            res+=solve(s,i+2);
         }
-        return one;
+        dp.put(i,res);
+        return res;
     }
 }
