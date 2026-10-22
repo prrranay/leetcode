@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/prrranay/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/prrranay/leetcode/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/prrranay/leetcode/tree/master/0846-hand-of-straights) |
+| [0867-transpose-matrix](https://github.com/prrranay/leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/prrranay/leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/prrranay/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/prrranay/leetcode/tree/master/0994-rotting-oranges) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/prrranay/leetcode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/prrranay/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/prrranay/leetcode/tree/master/0835-image-overlap) |
+| [0867-transpose-matrix](https://github.com/prrranay/leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/prrranay/leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/prrranay/leetcode/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/prrranay/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/prrranay/leetcode/tree/master/0043-multiply-strings) |
+| [0867-transpose-matrix](https://github.com/prrranay/leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/prrranay/leetcode/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/prrranay/leetcode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prrranay/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
