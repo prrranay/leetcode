@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/prrranay/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/prrranay/leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/prrranay/leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/prrranay/leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/prrranay/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prrranay/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/prrranay/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/prrranay/leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/prrranay/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/prrranay/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/prrranay/leetcode/tree/master/0231-power-of-two) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/prrranay/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/prrranay/leetcode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/prrranay/leetcode/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/prrranay/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
 |  |
