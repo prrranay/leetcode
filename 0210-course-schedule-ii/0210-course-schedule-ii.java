@@ -1,50 +1,45 @@
 class Solution {
-    Stack<Integer> stack = new Stack<>();
-
+    ArrayList<Integer> res=new ArrayList<>();
+    List<List<Integer>> adj=new ArrayList<>();
+    int[] indegree;
     public int[] findOrder(int numCourses, int[][] prerequisites) {
-        HashMap<Integer, List<Integer>> graph = new HashMap<>();
+        indegree=new int[numCourses];
 
-        for (int[] pre : prerequisites) {
-            if (graph.containsKey(pre[1])) {
-                graph.get(pre[1]).add(pre[0]);
-            } else {
-                List<Integer> list = new ArrayList<>();
-                list.add(pre[0]);
-                graph.put(pre[1], list);
+        for(int i=0;i<numCourses;i++){
+            adj.add(new ArrayList<>());
+        }
+
+        for(int[] pre:prerequisites){
+            indegree[pre[0]]++;
+
+            adj.get(pre[1]).add(pre[0]);
+        }
+
+        for(int i=0;i<numCourses;i++){
+            if(indegree[i] == 0){
+                dfs(i);
             }
         }
-        int[] state = new int[numCourses];
-        for (int i = 0; i < numCourses; i++) {
-            if (!solve(graph, i, state)) {
-                return new int[0];
-            }
+
+        if(res.size() !=  numCourses) return new int[0];
+
+        int ans[]=new int[numCourses];
+
+        for(int i=0;i<numCourses;i++){
+            ans[i]=res.get(i);
         }
-        int[] ans = new int[numCourses];
-        int i = 0;
-        while (!stack.isEmpty()) {
-            ans[i++] = stack.pop();
-        }
+
         return ans;
     }
 
-    public boolean solve(Map<Integer, List<Integer>> graph, int course, int[] state) {
-        if (state[course] == 1) {
-            return false;
-        }
-        if (state[course] == 2) {
-            return true;
-        }
-
-        state[course] = 1;
-        if (graph.get(course) != null) {
-            for (int i : graph.get(course)) {
-                if (!solve(graph, i, state)) {
-                    return false;
-                }
+    public void dfs(int node){
+        res.add(node);
+        indegree[node]--;
+        for(int nei:adj.get(node)){
+            indegree[nei]--;
+            if(indegree[nei] == 0){
+                dfs(nei);
             }
         }
-        stack.push(course);
-        state[course] = 2;
-        return true;
     }
 }
