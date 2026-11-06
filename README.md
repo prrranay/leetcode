@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/prrranay/leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/prrranay/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/prrranay/leetcode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/prrranay/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/prrranay/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prrranay/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/prrranay/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prrranay/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/prrranay/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/prrranay/leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/prrranay/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/prrranay/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prrranay/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prrranay/leetcode/tree/master/0268-missing-number) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prrranay/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prrranay/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/prrranay/leetcode/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/prrranay/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/prrranay/leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/prrranay/leetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/prrranay/leetcode/tree/master/0151-reverse-words-in-a-string) |
