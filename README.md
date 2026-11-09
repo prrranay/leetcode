@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/prrranay/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/prrranay/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prrranay/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0473-matchsticks-to-square](https://github.com/prrranay/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/prrranay/leetcode/tree/master/0486-predict-the-winner) |
 | [0621-task-scheduler](https://github.com/prrranay/leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prrranay/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/prrranay/leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/prrranay/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/prrranay/leetcode/tree/master/0389-find-the-difference) |
+| [0473-matchsticks-to-square](https://github.com/prrranay/leetcode/tree/master/0473-matchsticks-to-square) |
 | [1386-cinema-seat-allocation](https://github.com/prrranay/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/prrranay/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prrranay/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/prrranay/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/prrranay/leetcode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/prrranay/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0473-matchsticks-to-square](https://github.com/prrranay/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/prrranay/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/prrranay/leetcode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/prrranay/leetcode/tree/master/0647-palindromic-substrings) |
@@ -782,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/prrranay/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/prrranay/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/prrranay/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0473-matchsticks-to-square](https://github.com/prrranay/leetcode/tree/master/0473-matchsticks-to-square) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/prrranay/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/prrranay/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
@@ -995,4 +999,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/prrranay/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/prrranay/leetcode/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
