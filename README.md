@@ -761,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/prrranay/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/prrranay/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/prrranay/leetcode/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/prrranay/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/prrranay/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prrranay/leetcode/tree/master/0090-subsets-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/prrranay/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
