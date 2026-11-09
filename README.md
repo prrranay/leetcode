@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/prrranay/leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/prrranay/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/prrranay/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/prrranay/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/prrranay/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/prrranay/leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/prrranay/leetcode/tree/master/0118-pascals-triangle) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/prrranay/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/prrranay/leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/prrranay/leetcode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/prrranay/leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/prrranay/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/prrranay/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/prrranay/leetcode/tree/master/0125-valid-palindrome) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/prrranay/leetcode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/prrranay/leetcode/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/prrranay/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/prrranay/leetcode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/prrranay/leetcode/tree/master/0174-dungeon-game) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prrranay/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/prrranay/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/prrranay/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/prrranay/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/prrranay/leetcode/tree/master/0100-same-tree) |
@@ -770,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/prrranay/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/prrranay/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/prrranay/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/prrranay/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/prrranay/leetcode/tree/master/0090-subsets-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/prrranay/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/prrranay/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
