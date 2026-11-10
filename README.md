@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/prrranay/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/prrranay/leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/prrranay/leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/prrranay/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/prrranay/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/prrranay/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/prrranay/leetcode/tree/master/0088-merge-sorted-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prrranay/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/prrranay/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/prrranay/leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/prrranay/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prrranay/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/prrranay/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prrranay/leetcode/tree/master/0242-valid-anagram) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prrranay/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prrranay/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/prrranay/leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/prrranay/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prrranay/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/prrranay/leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/prrranay/leetcode/tree/master/0143-reorder-list) |
@@ -829,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/prrranay/leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/prrranay/leetcode/tree/master/0075-sort-colors) |
 ## Nim Game
 |  |
 | ------- |
@@ -1003,4 +1007,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/prrranay/leetcode/tree/master/0473-matchsticks-to-square) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/prrranay/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
