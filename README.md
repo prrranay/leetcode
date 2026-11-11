@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/prrranay/leetcode/tree/master/0846-hand-of-straights) |
 | [0867-transpose-matrix](https://github.com/prrranay/leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/prrranay/leetcode/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/prrranay/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/prrranay/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/prrranay/leetcode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/prrranay/leetcode/tree/master/1046-last-stone-weight) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/prrranay/leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prrranay/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/prrranay/leetcode/tree/master/0846-hand-of-straights) |
+| [0912-sort-an-array](https://github.com/prrranay/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/prrranay/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1288-remove-covered-intervals](https://github.com/prrranay/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/prrranay/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/prrranay/leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/prrranay/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prrranay/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0912-sort-an-array](https://github.com/prrranay/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/prrranay/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/prrranay/leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prrranay/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -770,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/prrranay/leetcode/tree/master/0912-sort-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prrranay/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
@@ -811,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/prrranay/leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/prrranay/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/prrranay/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0912-sort-an-array](https://github.com/prrranay/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/prrranay/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Minimax
 |  |
@@ -971,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/prrranay/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/prrranay/leetcode/tree/master/0912-sort-an-array) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1011,4 +1017,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/prrranay/leetcode/tree/master/0075-sort-colors) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/prrranay/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/prrranay/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
