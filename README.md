@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/prrranay/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/prrranay/leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/prrranay/leetcode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/prrranay/leetcode/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/prrranay/leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/prrranay/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/prrranay/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/prrranay/leetcode/tree/master/0389-find-the-difference) |
 | [0508-most-frequent-subtree-sum](https://github.com/prrranay/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0621-task-scheduler](https://github.com/prrranay/leetcode/tree/master/0621-task-scheduler) |
+| [0705-design-hashset](https://github.com/prrranay/leetcode/tree/master/0705-design-hashset) |
 | [0763-partition-labels](https://github.com/prrranay/leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/prrranay/leetcode/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/prrranay/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/prrranay/leetcode/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/prrranay/leetcode/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/prrranay/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/prrranay/leetcode/tree/master/0705-design-hashset) |
 | [2013-detect-squares](https://github.com/prrranay/leetcode/tree/master/2013-detect-squares) |
 ## Data Stream
 |  |
@@ -981,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/prrranay/leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/prrranay/leetcode/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/prrranay/leetcode/tree/master/0355-design-twitter) |
+| [0705-design-hashset](https://github.com/prrranay/leetcode/tree/master/0705-design-hashset) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1038,4 +1042,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prrranay/leetcode/tree/master/0169-majority-element) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/prrranay/leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
