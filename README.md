@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/prrranay/leetcode/tree/master/0846-hand-of-straights) |
 | [0867-transpose-matrix](https://github.com/prrranay/leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/prrranay/leetcode/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/prrranay/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/prrranay/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/prrranay/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/prrranay/leetcode/tree/master/0994-rotting-oranges) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/prrranay/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/prrranay/leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/prrranay/leetcode/tree/master/0846-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/prrranay/leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prrranay/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prrranay/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1338-reduce-array-size-to-the-half](https://github.com/prrranay/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/prrranay/leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prrranay/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/prrranay/leetcode/tree/master/0846-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/prrranay/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/prrranay/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/prrranay/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1288-remove-covered-intervals](https://github.com/prrranay/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/prrranay/leetcode/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/prrranay/leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/prrranay/leetcode/tree/master/0763-partition-labels) |
+| [0881-boats-to-save-people](https://github.com/prrranay/leetcode/tree/master/0881-boats-to-save-people) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prrranay/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/prrranay/leetcode/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/prrranay/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1077,4 +1081,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/prrranay/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/prrranay/leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
