@@ -2,7 +2,7 @@ class Solution {
     int dp[];
     public int lengthOfLIS(int[] nums) {
         dp=new int[nums.length];
-        int max=Integer.MIN_VALUE;
+        int max=1;
         for(int i=0;i<nums.length;i++){
             max=Math.max(max,solve(nums,i));
         }
