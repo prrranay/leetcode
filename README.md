@@ -1095,4 +1095,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/prrranay/leetcode/tree/master/0881-boats-to-save-people) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/prrranay/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
