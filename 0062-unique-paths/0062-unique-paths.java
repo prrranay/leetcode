@@ -2,23 +2,21 @@ class Solution {
     int dp[][];
     public int uniquePaths(int m, int n) {
         dp=new int[m][n];
-        return solve(m-1,n-1);
-    }
-
-    public int solve(int m,int n){
-        if(m == 0 && n==0){
-            return 1;
+        for(int i=0;i<m;i++){
+            dp[i][0]=1;
+        }
+        for(int j=0;j<n;j++){
+            dp[0][j]=1;
         }
 
-        if(dp[m][n] != 0) return dp[m][n];
-
-        int ans=0;
-        if(m>0){
-            ans+=solve(m-1,n);
+        for(int i=1;i<m;i++){
+            for(int j=1;j<n;j++){
+                int ans=0;
+                if(i>0) ans+=dp[i-1][j];
+                if(j>0) ans+=dp[i][j-1];
+                dp[i][j]=ans;
+            }
         }
-        if(n>0){
-            ans+=solve(m,n-1);
-        }
-        return dp[m][n]=ans;
+        return dp[m-1][n-1];
     }
 }
