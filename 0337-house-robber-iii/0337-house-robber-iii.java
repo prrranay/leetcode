@@ -38,7 +38,8 @@ class Solution {
         }
 
         int skip=solve(root.left)+solve(root.right);
-        dp.put(root,Math.max(take,skip));
-        return dp.get(root);
+        int ans=Math.max(take,skip);
+        dp.put(root,ans);
+        return ans;
     }
 }
