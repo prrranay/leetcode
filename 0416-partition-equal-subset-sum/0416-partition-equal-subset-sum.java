@@ -9,9 +9,6 @@ class Solution {
         if(sum % 2 != 0) return false;
         int n=nums.length;
         dp=new int[n][(sum/2)+1];
-        for(int []curr:dp){
-            Arrays.fill(curr,-1);
-        }
         return solve(nums,0,sum/2);
     }
 
@@ -23,8 +20,8 @@ class Solution {
         if(target<0){
             return false;
         }
-        if(dp[i][target] != -1){
-            if(dp[i][target]==0){
+        if(dp[i][target] != 0){
+            if(dp[i][target]==1){
                 return false;
             }else{
                 return true;
@@ -32,10 +29,10 @@ class Solution {
         }
         
         if(solve(nums,i+1,target) || solve(nums,i+1,target-nums[i])){
-            dp[i][target]=1;
+            dp[i][target]=2;
             return true;
         }else{
-            dp[i][target]=0;
+            dp[i][target]=1;
             return false;
         }
     }
