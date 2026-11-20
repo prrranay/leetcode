@@ -1,22 +1,42 @@
 class Solution {
+    int dp[][];
     public boolean canPartition(int[] nums) {
-        int total=0;
-        for(int num:nums){
-            total+=num;
+        int sum=0;
+        for(int i=0;i<nums.length;i++){
+            sum+=nums[i];
         }
-        if(total % 2 !=0) return false;
 
-        int target = total/2;
-        boolean[] dp=new boolean[target+1];
-        dp[0]=true;
+        if(sum % 2 != 0) return false;
+        int n=nums.length;
+        dp=new int[n][(sum/2)+1];
+        for(int []curr:dp){
+            Arrays.fill(curr,-1);
+        }
+        return solve(nums,0,sum/2);
+    }
 
-        for(int num:nums){
-            for(int j=target;j>=num;j--){
-                if(dp[j-num]){
-                    dp[j]=dp[j-num];
-                }
+    boolean solve(int[] nums,int i,int target){
+        if(i == nums.length){
+            return target == 0;
+        }
+
+        if(target<0){
+            return false;
+        }
+        if(dp[i][target] != -1){
+            if(dp[i][target]==0){
+                return false;
+            }else{
+                return true;
             }
         }
-        return dp[target];
+        
+        if(solve(nums,i+1,target) || solve(nums,i+1,target-nums[i])){
+            dp[i][target]=1;
+            return true;
+        }else{
+            dp[i][target]=0;
+            return false;
+        }
     }
 }
