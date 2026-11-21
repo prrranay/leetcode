@@ -1012,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/prrranay/leetcode/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/prrranay/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## DP on Trees
 |  |
