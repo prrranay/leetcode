@@ -6,7 +6,7 @@ class Solution {
         Arrays.fill(dist,INF);
         dist[k-1]=0;
 
-        for(int i=1;i<n;i++){
+        for(int i=0;i<n;i++){
             for(int[] edge:times){
                 int u=edge[0]-1,v=edge[1]-1,w=edge[2];
 
