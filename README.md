@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/prrranay/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/prrranay/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/prrranay/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1352-product-of-the-last-k-numbers](https://github.com/prrranay/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prrranay/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/prrranay/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/prrranay/leetcode/tree/master/1406-stone-game-iii) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/prrranay/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/prrranay/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/prrranay/leetcode/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/prrranay/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/prrranay/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/prrranay/leetcode/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prrranay/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/prrranay/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/prrranay/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/prrranay/leetcode/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/prrranay/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prrranay/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/prrranay/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prrranay/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -935,11 +938,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/prrranay/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/prrranay/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/prrranay/leetcode/tree/master/0706-design-hashmap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/prrranay/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2013-detect-squares](https://github.com/prrranay/leetcode/tree/master/2013-detect-squares) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/prrranay/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/prrranay/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2013-detect-squares](https://github.com/prrranay/leetcode/tree/master/2013-detect-squares) |
 ## Tree
 |  |
