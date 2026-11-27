@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/prrranay/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/prrranay/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/prrranay/leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/prrranay/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prrranay/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/prrranay/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/prrranay/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/prrranay/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/prrranay/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prrranay/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/prrranay/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/prrranay/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Memoization
 |  |
 | ------- |
